@@ -1,3 +1,3 @@
-# Proof-of-Stake
+![Header Image](minterhead.png)
 
-[NEED COPY -- Possible PoS branded banner image?] This section will walk you through the Proof-of-Stake mechanism that makes Tezos unique.
+Header Image example
