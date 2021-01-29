@@ -1,4 +1,4 @@
-![Welcome to the Tezos Agora Wiki](welcomebanner.jpg)
+![](welcomebanner.jpg "Welcome to the Tezos Agora Wiki")
 
 # Welcome to the Tezos Agora Wiki!
 
