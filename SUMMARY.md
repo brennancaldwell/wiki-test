@@ -21,10 +21,15 @@
 * [What is Proof-of-Stake?](files/proofofstake.md#intro)
 * [The Tezos consensus algorithm](files/proofofstake.md#consensus) -->
 
-### [Baking](files/baking.md)
+<!-- ### [Baking](files/baking.md)
 * [What is baking?](files/baking.md#what)
 * [What is delegating?](files/baking.md#delegate)
-* [Should I bake or delegate?](files/baking.md#bakeordelegate)
+* [Should I bake or delegate?](files/baking.md#bakeordelegate) -->
+
+- [Baking](files/baking/bakingintro.md)
+    - [What is baking?](files/baking/whatisbaking.md)
+    - [What is delegating?](files/baking/delegate.md)
+    - [Should I bake or delegate?](files/baking/bakeordelegate.md)
 
 ### [Tezos Governance](files/self-amendment.md)
 * [What is Self Amendment?](files/self-amendment.md#introduction)
