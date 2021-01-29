@@ -1,6 +1,5 @@
 # Summary
 
-- [Welcome](WELCOME.md)
 - [Introduction to the Tezos Wiki](README.md)
 - [Tezos Whitepaper](files/whitepaper.md)
 
