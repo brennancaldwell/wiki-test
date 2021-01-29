@@ -8,9 +8,9 @@
     - [What makes Tezos unique?](files/basics/unique.md)
     - [Tezos Nomenclature](files/basics/nomenclature.md)
 
-* [What is Tezos?](files/basics.md#intro)
+<!-- * [What is Tezos?](files/basics.md#intro)
 * [What makes Tezos unique?](files/basics.md#unique)
-* [Tezos Nomenclature](files/basics.md#nomenclature)
+* [Tezos Nomenclature](files/basics.md#nomenclature) -->
 
 ### Proof-of-Stake
 * [What is Proof-of-Stake?](files/proofofstake.md#intro)
