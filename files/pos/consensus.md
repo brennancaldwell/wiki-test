@@ -1,8 +1,8 @@
-## Emmy&#8314, the consensus algorithm in Tezos {#consensus}
+## Emmy &#8314, the consensus algorithm in Tezos {#consensus}
 
 Tezos uses a Nakamoto-style PoS algorithm for consensus, which since
 [Babylon](https://tezos.gitlab.io/protocols/005_babylon.html), is called
-Emmy<sup>+</sup>, which is a variant of the protocol proposed in the Tezos white
+Emmy &#8314, which is a variant of the protocol proposed in the Tezos white
 paper (later nick-named Emmy). To understand it, we will break it up into the give
 main sections:
 
