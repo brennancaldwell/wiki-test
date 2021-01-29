@@ -1,6 +1,6 @@
 # Summary
 
-- [Introduction to the Tezos Agora Wiki](README.md)
+- [Introduction](README.md)
 - [Tezos Whitepaper](files/whitepaper.md)
 
 - [Tezos Basics](files/basics/intro.md)
