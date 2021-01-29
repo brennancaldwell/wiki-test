@@ -3,7 +3,10 @@
 * [Introduction to the Tezos Wiki](README.md)
 * [Tezos Whitepaper](files/whitepaper.md)
 
-### Tezos Basics
+- [Tezos Basics](files/basics/intro.md)
+    - [What is Tezos?](files/basics/whatis.md)
+    - [What makes Tezos unique?](files/basics/unique.md)
+    - [Tezos Nomenclature](files/basics/nomenclature.md)
 
 * [What is Tezos?](files/basics.md#intro)
 * [What makes Tezos unique?](files/basics.md#unique)
