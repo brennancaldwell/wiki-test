@@ -1,3 +1,3 @@
 # Tezos Basics
 
-Here's a filler page. Some sort of introductory information about Tezos.
+[NEED COPY] This section will talk you through the basics of the Tezos ecosystem.

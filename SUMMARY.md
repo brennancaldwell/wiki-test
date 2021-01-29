@@ -8,13 +8,18 @@
     - [What makes Tezos unique?](files/basics/unique.md)
     - [Tezos Nomenclature](files/basics/nomenclature.md)
 
-<!-- * [What is Tezos?](files/basics.md#intro)
+<!-- ### Tezos Basics
+* [What is Tezos?](files/basics.md#intro)
 * [What makes Tezos unique?](files/basics.md#unique)
 * [Tezos Nomenclature](files/basics.md#nomenclature) -->
 
-### Proof-of-Stake
+- [Proof-of-Stake](files/pos/intro.md)
+    - [What is Proof-of-Stake?](files/pos/whatis.md)
+    - [The Tezos consensus algorithm](files/pos/consensus.md)
+
+<!-- ### Proof-of-Stake
 * [What is Proof-of-Stake?](files/proofofstake.md#intro)
-* [The Tezos consensus algorithm](files/proofofstake.md#consensus)
+* [The Tezos consensus algorithm](files/proofofstake.md#consensus) -->
 
 ### [Baking](files/baking.md)
 * [What is baking?](files/baking.md#what)
