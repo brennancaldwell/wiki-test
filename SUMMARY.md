@@ -79,6 +79,6 @@
 * [Baking Services](files/resources.md#baking) -->
 
 - [Resources](files/resources/resourcesintro.md)
-    - [Wallets](files/resources/wallets.md)
-    - [Block Explorer](files/resources/blockexplorer.md)
+    - [ꜩ Tezos Wallets](files/resources/wallets.md)
+    - [Block Explorers](files/resources/blockexplorer.md)
     - [Baking Services](files/resources/bakingservices.md)
