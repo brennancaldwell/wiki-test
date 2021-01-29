@@ -49,8 +49,11 @@
     - [SmartPy](files/smartcontracts/smartpy.md)
     - [LIGO](files/smartcontracts/ligo.md)
 
-### [Formal Verification](files/formal-verification.md)
-* [Michelson and Coq](files/formal-verification.md#coq)
+<!-- ### [Formal Verification](files/formal-verification.md)
+* [Michelson and Coq](files/formal-verification.md#coq) -->
+
+- [Formal Verification](files/formalverification/fvintro.md)
+    - [Michelson and Coq](files/formalverification/michelsonandcoq.md)
 
 ### [Future Developments](files/future.md)
 * [Privacy](files/future.md#intro)
