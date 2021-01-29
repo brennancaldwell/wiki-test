@@ -39,10 +39,15 @@
  - [What is Self Amendment?](files/governance/whatissa.md)
  - [Off-chain Governance](files/governance/off-chaingovernance.md)
 
-### [Smart Contracts](files/language.md)
+<!-- ### [Smart Contracts](files/language.md)
 * [Michelson](files/language.md#michelson)
 * [SmartPy](files/language.md#smartpy)
-* [LIGO](files/language.md#ligo)
+* [LIGO](files/language.md#ligo) -->
+
+- [Smart Contracts](files/smartcontracts/scintro.md)
+    - [Michelson](files/smartcontracts/michelson.md)
+    - [SmartPy] (files/smartcontracts/smartpy.md)
+    - [LIGO](files/smartcontracts/ligo.md)
 
 ### [Formal Verification](files/formal-verification.md)
 * [Michelson and Coq](files/formal-verification.md#coq)
