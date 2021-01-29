@@ -1,4 +1,4 @@
-# ꜩ Tezos Wallets {#wallet}
+## ꜩ Tezos Wallets {#wallet}
 - [Kukai (Web)](https://kukai.app/)
 - [Thanos (Browser Extension)](https://thanoswallet.com)
 - [Magma (iOS and Android)](https://magmawallet.io)
