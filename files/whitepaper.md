@@ -748,7 +748,7 @@ protocol that they feel best serves them.
 
 [^4]: A zero-knowledge proof would allow anyone to benefit from denouncing malfeasances, but it's not particularly clear this carries much benefit.
 
-<script type="text/x-mathjax-config">
+<!-- <script type="text/x-mathjax-config">
 MathJax.Hub.Config({
 tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}
 });
@@ -758,4 +758,4 @@ tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}
 gitbook.events.bind("page.change", function() {
     MathJax.Hub.Queue(["Typeset",MathJax.Hub]);
 })
-</script>
+</script> -->
