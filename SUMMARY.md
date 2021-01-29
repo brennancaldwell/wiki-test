@@ -46,7 +46,7 @@
 
 - [Smart Contracts](files/smartcontracts/scintro.md)
     - [Michelson](files/smartcontracts/michelson.md)
-    - [SmartPy] (files/smartcontracts/smartpy.md)
+    - [SmartPy](files/smartcontracts/smartpy.md)
     - [LIGO](files/smartcontracts/ligo.md)
 
 ### [Formal Verification](files/formal-verification.md)
