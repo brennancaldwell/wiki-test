@@ -1,3 +1,5 @@
+# Wallets
+
 # ꜩ Tezos Wallets
 
 - [Kukai (Web)](https://kukai.app/)
