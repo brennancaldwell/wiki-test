@@ -67,8 +67,11 @@
     - [Layer 2](files/futuredevelopments/layer2.md)
     - [Governance](files/futuredevelopments/fdgovernance.md)
 
-### Built on Tezos
-* [Key Tezos Projects](files/projects.md#projects)
+<!-- ### Built on Tezos
+* [Key Tezos Projects](files/projects.md#projects) -->
+
+- [Built on Tezos](files/builtontezos/builtintro.md)
+    - [Key Tezos Projects](files/builtontezos/keytezosprojects.md)
 
 ### Resources
 * [Wallets](files/resources.md#wallet)
