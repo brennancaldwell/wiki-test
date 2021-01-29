@@ -1,3 +1,3 @@
 ![Header Image](minterhead.png)
 
-Header Image example
+Branded Image example
