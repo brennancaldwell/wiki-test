@@ -1,7 +1,8 @@
 # Summary
 
-<!-- * [Introduction to the Tezos Wiki](README.md) -->
-* [Tezos Whitepaper](files/whitepaper.md)
+- [Welcome](WELCOME.md)
+- [Introduction to the Tezos Wiki](README.md)
+- [Tezos Whitepaper](files/whitepaper.md)
 
 - [Tezos Basics](files/basics/intro.md)
     - [What is Tezos?](files/basics/whatis.md)
