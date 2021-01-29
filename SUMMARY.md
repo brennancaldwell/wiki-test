@@ -55,11 +55,17 @@
 - [Formal Verification](files/formalverification/fvintro.md)
     - [Michelson and Coq](files/formalverification/michelsonandcoq.md)
 
-### [Future Developments](files/future.md)
+<!-- ### [Future Developments](files/future.md)
 * [Privacy](files/future.md#intro)
 * [Consensus](files/future.md#consensus)
 * [Layer 2](files/future.md#layer2)
-* [Governance](files/future.md#governance)
+* [Governance](files/future.md#governance) -->
+
+- [Future Developments](files/futuredevelopments/fdintro.md)
+    - [Privacy](files/futuredevelopments/privacy.md)
+    - [Consensus](files/futuredevelopments/fdconsensus.md)
+    - [Layer 2](files/futuredevelopments/layer2.md)
+    - [Governance](files/futuredevelopments/fdgovernance.md)
 
 ### Built on Tezos
 * [Key Tezos Projects](files/projects.md#projects)
