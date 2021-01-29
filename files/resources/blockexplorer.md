@@ -1,4 +1,5 @@
-## Block Explorers {#explorer}
+# Block Explorers {#explorer}
+
 - [TZKT](https://tzkt.io)
 - [Better Call Dev - "Michelson Contract Explorer"](https://better-call.dev/)
 - [TZStats](https://tzstats.com/)
