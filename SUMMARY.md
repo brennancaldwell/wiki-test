@@ -3,23 +3,23 @@
 - [Introduction](README.md)
 - [Tezos Whitepaper](files/whitepaper.md)
 
-- [Tezos Basics](files/basics/basicsintro.md)
-    - [What is Tezos?](files/basics/whatistezos.md)
-    - [What makes Tezos unique?](files/basics/unique.md)
-    - [Tezos Nomenclature](files/basics/nomenclature.md)
-
 <!-- ### Tezos Basics
 * [What is Tezos?](files/basics.md#intro)
 * [What makes Tezos unique?](files/basics.md#unique)
 * [Tezos Nomenclature](files/basics.md#nomenclature) -->
 
-- [Proof-of-Stake](files/pos/posintro.md)
-    - [What is Proof-of-Stake?](files/pos/whatispos.md)
-    - [The Tezos consensus algorithm](files/pos/consensus.md)
+- [Tezos Basics](files/basics/basicsintro.md)
+    - [What is Tezos?](files/basics/whatistezos.md)
+    - [What makes Tezos unique?](files/basics/unique.md)
+    - [Tezos Nomenclature](files/basics/nomenclature.md)
 
 <!-- ### Proof-of-Stake
 * [What is Proof-of-Stake?](files/proofofstake.md#intro)
 * [The Tezos consensus algorithm](files/proofofstake.md#consensus) -->
+
+- [Proof-of-Stake](files/pos/posintro.md)
+    - [What is Proof-of-Stake?](files/pos/whatispos.md)
+    - [The Tezos consensus algorithm](files/pos/consensus.md)
 
 <!-- ### [Baking](files/baking.md)
 * [What is baking?](files/baking.md#what)
@@ -73,7 +73,12 @@
 - [Built on Tezos](files/builtontezos/builtintro.md)
     - [Key Tezos Projects](files/builtontezos/keytezosprojects.md)
 
-### Resources
+<!-- ### Resources
 * [Wallets](files/resources.md#wallet)
 * [Block Explorer](files/resources.md#explorer)
-* [Baking Services](files/resources.md#baking)
+* [Baking Services](files/resources.md#baking) -->
+
+- [Resources](files/resources/resourcesintro.md)
+    - [Wallets](files/resources/wallets.md)
+    - [Block Explorer](files/resources/blockexplorer.md)
+    - [Baking Services](files/resources/bakingservices.md)
