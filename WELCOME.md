@@ -1,1 +1,0 @@
-![Welcome to the Tezos Agora Wiki](welcomebanner.jpg)
