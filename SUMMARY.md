@@ -31,9 +31,13 @@
     - [What is delegating?](files/baking/delegate.md)
     - [Should I bake or delegate?](files/baking/bakeordelegate.md)
 
-### [Tezos Governance](files/self-amendment.md)
+<!-- ### [Tezos Governance](files/self-amendment.md)
 * [What is Self Amendment?](files/self-amendment.md#introduction)
-* [Off-chain Governance](files/self-amendment.md#offchain)
+* [Off-chain Governance](files/self-amendment.md#offchain) -->
+
+- [Tezos Governance](files/governance/governanceintro.md)
+ - [What is Self Amendment?](files/governance/whatissa.md)
+ - [Off-chain Governance](files/governance/off-chaingovernance.md)
 
 ### [Smart Contracts](files/language.md)
 * [Michelson](files/language.md#michelson)
