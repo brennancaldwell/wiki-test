@@ -3,8 +3,8 @@
 - [Introduction](README.md)
 - [Tezos Whitepaper](files/whitepaper.md)
 
-- [Tezos Basics](files/basics/intro.md)
-    - [What is Tezos?](files/basics/whatis.md)
+- [Tezos Basics](files/basics/basicsintro.md)
+    - [What is Tezos?](files/basics/whatistezos.md)
     - [What makes Tezos unique?](files/basics/unique.md)
     - [Tezos Nomenclature](files/basics/nomenclature.md)
 
@@ -13,8 +13,8 @@
 * [What makes Tezos unique?](files/basics.md#unique)
 * [Tezos Nomenclature](files/basics.md#nomenclature) -->
 
-- [Proof-of-Stake](files/pos/intro.md)
-    - [What is Proof-of-Stake?](files/pos/whatis.md)
+- [Proof-of-Stake](files/pos/posintro.md)
+    - [What is Proof-of-Stake?](files/pos/whatispos.md)
     - [The Tezos consensus algorithm](files/pos/consensus.md)
 
 <!-- ### Proof-of-Stake
