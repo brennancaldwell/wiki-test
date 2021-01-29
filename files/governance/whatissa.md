@@ -12,7 +12,7 @@ The self amendment process is split into 4 periods: Proposal Period, Exploration
 
 Should there be any failure to proceed for a period, the whole process reverts to the Proposal Period, effectively restarting the whole process.
 
-![](.../img/self-amendment.png)
+![](self-amendment.png)
 
 ## 1. Proposal Period
 
